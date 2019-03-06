@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: joker2gun
+Label: joker2gun
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: joker2gun - a cydia repo template
