@@ -1,10 +1,10 @@
 <package>
-	<id>PUBGMOBILEiOSGodsCom</id>
+	<id>Sup.joker</id>
 	<name>PUBG Hack Free VIP</name>
-	<version>10.5~1</version>
+	<version>1.9.9</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,8 +12,8 @@
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>هاك سلايدر إخفاء الشجر مجاني بدون إعلانات مزعجة 😀</description>
-		<description>PUBG HACK NO BLOCKING FREE VIP NO ADS MORE 😍</description>
+		<description>هاك المال والطاقة والمستوى والجواهر بشكل غير محدود مع ميزة vip 😀</description>
+		<description>Unlimited Coins , Diamonds , Energy , level and VIP USER</description>
 		<description><![CDATA[
 		Follow me In Twitter<br/> 
 		@kgfunn
@@ -22,11 +22,11 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>قبل تفعيل الهاك</description>
+			<description>خيارات الهاك</description>
 			<image>shot1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>بعد تفعيل الهاك</description>
+			<description>خيارات الهاك</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
