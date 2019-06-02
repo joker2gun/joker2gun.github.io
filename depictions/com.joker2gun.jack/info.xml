@@ -1,0 +1,40 @@
+<package>
+	<id>jack.joker</id>
+	<name>PUBG Hack Free VIP</name>
+	<version>1.16.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>هاك اللعبة يتميز بعدم تأثر اللاعب بالصواريخ والنيران والليزر مع خاصية المغناطيس للعملات المعدنية</description>
+		<description>NO Zapper , NO Missile , NO Lazer hurt and Magnatic coins</description>
+		<description><![CDATA[
+		Follow me In Twitter<br/> 
+		@kgfunn
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>pic1</description>
+			<image>shot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>pic2</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
