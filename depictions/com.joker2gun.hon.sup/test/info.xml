@@ -1,0 +1,40 @@
+<package>
+	<id>Sup.joker</id>
+	<name>PUBG Hack Free VIP</name>
+	<version>1.9.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>هاك الصحة لا نهائية مع قنابل لامحدودة </description>
+		<description>Unlimited respawn , prop health , hunter health , unlimited ammo and unlimited Ability </description>
+		<description><![CDATA[
+		Follow me In Twitter<br/> 
+		@kgfunn
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>خيارات الهاك</description>
+			<image>shot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>خيارات الهاك</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
