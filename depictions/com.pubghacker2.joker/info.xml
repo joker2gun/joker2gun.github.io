@@ -1,0 +1,40 @@
+<package>
+	<id>jack.joker</id>
+	<name>PUBG Hack v0.3.6</name>
+	<version>0.3.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>مميزات الهاك لعدم تناثر الرصاص ، ثبات السلاح والكامرا ، حركة سريعة ، تكبير السيارات ، نطة طويلة ، اخفاء العشب والسيارات</description>
+		<description>NO GRASS , NO RECOIL , NO SPREAD , CAR SIZE ,  FAST MOVE , HIGH JUMP , HIFH CAR VIEW , HIDE CAR</description>
+		<description><![CDATA[
+		Follow me In Twitter<br/> 
+		@kgfunn
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>pic1</description>
+			<image>shot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>pic2</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
