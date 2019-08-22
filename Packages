@@ -1,0 +1,201 @@
+Package: com.archry.joker
+Version: 1.0.30-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 588
+Depends: mobilesubstrate
+Filename: ./debs/com.archry.joker.deb.deb
+Size: 117922
+MD5sum: c5d30e1b10177190ee56eecf5dbb5cfe
+SHA1: 377d5c59926083b2acdd95028abe24edfeba6141
+SHA256: fcb97af34c56d4a2bd67540df0427cb0cbd9b68e4c4e78f555265c3db1e2b67e
+Section: Hack
+Description: Archery king hack winde , zoom  and better Aiming
+Author: @Kgfunn
+Depiction: https://joker2gun.github.io/depictions/?p=com.archry.joker
+Name: Archery King Hack
+
+Package: com.gun2joker.hon
+Version: 3.6.1-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/com.gun2joker.hondeb.deb
+Size: 118078
+MD5sum: e3313254a8316eeb45edeed970d93a18
+SHA1: 07eac2873c77f357c3cf3ba3b7fb3044538906cc
+SHA256: dbc47843b0264aedaa3a2a538dbf892698fa934a5dbf353eb90c745d34756000
+Section: hack
+Description: HideOnline mod menu made by @kgfunn Unlimted Health , Ammo , Ability and Respawn
+Author: @kgfunn
+Depiction: https://joker2gun.github.io/depictions/?p=com.gun2joker.hon
+Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+Name: Hide Online Hack
+
+Package: com.joker-ios.vr
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Joker-ios
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.joker-ios.vr.deb
+Size: 9652
+MD5sum: f6d7f34453aeab77f70a77e113a27858
+SHA1: b1bb91c9b8ecb4c7548e1fd8e48fff640c8644b3
+SHA256: 20810b36a3ae78539f1920c114e71bdac40bc4b7d286cb84a65a674015f951f9
+Section: IOS12
+Description: لتعطيل البريد الصوتي تعمل ع ios 11-12
+Author: Joker-ios
+Icon: file:///Applications/Cydia.app/Sections/jios12.png
+Name: voicemailremover
+
+Package: com.joker2gun.icone
+Version: 12.5
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: kgfunn<support@joker2gun.github>
+Conflicts: com.joker2gun.icone
+Filename: ./debs/com.joker2gun.icone.deb
+Size: 22526
+MD5sum: 6210764e21652b2ed1c468d370a97ede
+SHA1: da1e0a36d020f038c818ca143a3752322b72daa1
+SHA256: 9fe9f1b954c56abaec911316e6e09eee9c6d7432c11d54eff556e8f3491bd303
+Section: System
+Author: kgfunn
+Name: joker2gun Icons
+Sponsor: joker2gun.github.io <http://joker2gun.github.io>
+
+Package: com.joker2gun.icone
+Version: 12.6
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: kgfunn<support@joker2gun.github>
+Conflicts: com.joker2gun.icone
+Filename: ./debs/com.joker2gun.icone_julioverne.deb
+Size: 46478
+MD5sum: c7bd6ece4c1d82be2917defd036d94f1
+SHA1: e7689b5fff8f0bcd4e338a697a315e6c5a8fd53a
+SHA256: 8a82acdd0f352b9108a5a1cad57d28f02cfad40cc99a004f82da4f7a716ee4a5
+Section: System
+Author: kgfunn
+Name: joker2gun Icons
+Sponsor: joker2gun.github.io <http://joker2gun.github.io>
+
+Package: com.joker2gun.jack
+Version: 1.16.2-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 588
+Depends: mobilesubstrate
+Filename: ./debs/com.joker2gun.jack.deb
+Size: 117866
+MD5sum: c3b3d1b3c30c2c374e028a970d75d553
+SHA1: 53b4293d8b0c1241022dc05c31a7109466ea6cd3
+SHA256: a1a6f9c51f742a0df59e1476f2842f3b2505e9c437617caf5400bdadad21960f
+Section: hack
+Description: Kgfunn mod menu made by Kgfunn
+Author: Kgfunn
+Depiction: https://joker2gun.github.io/depictions/?p=com.joker2gun.jack
+Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+Name: jetpack joyride hack
+
+Package: com.nito.ncontrol
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Kevin Bradley <kevin@nito.tv>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.nito.ncontrol.deb
+Size: 421504
+MD5sum: e3c577657a0295fe003e51dddcd4f227
+SHA1: 937c7e239852751e6efb7ed1effdef66ac00e6a1
+SHA256: d2a9000da18a8283c9be66917c641f7576da57279c0d2c4f14e095242fda5102
+Section: Tweaks
+Description: لتشغيل يدة السوني والنينتدو والاكسبوكس على الايفون والايباد
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: cracked by @kgfunn
+Depiction: https://joker2gun.github.io/depictions/?p=com.nito.ncontrol
+Icon: https://repo.chariz.io/package/com.nito.ncontrol/icon@3x.png
+Name: nControl Cracked
+
+Package: com.pubghacker2.joker
+Version: 0.13.6-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/com.pubghacker2.joker.deb
+Size: 121594
+MD5sum: c0a5646a06bea683691c718b92e11c32
+SHA1: 8ef9e854c98a22e0af4dfbab5067038f91c363bb
+SHA256: cee20f22a8873c5da22a68998d8054f5ed7e19d9f470ba45a3545e5afabebbfc
+Section: hack
+Description: Pubg Hacker mod menu made by @kgfunn & ‫‪@7mo0dd9‬
+Author: kgfunn&7mo0dd9
+Depiction: https://joker2gun.github.io/depictions/?p=com.pubghacker2.joker
+Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+Name: Pubg Hack v0.13.6
+
+Package: com.pubghacker22.joker
+Version: 0.14.0-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/com.pubghacker22.joker.deb
+Size: 121540
+MD5sum: e565937748d3ea9d60388ef0b0907b9d
+SHA1: c70bea79c42c23c8dac94c50819672fd60376d4b
+SHA256: d27d896d900ef1bcbba6eb274b2b75893a72efd73d40f6f25038fc1394e74030
+Section: hack
+Description: Pubg Hacker mod menu made by @kgfunn & ‫‪@7mo0dd9‬
+Author: kgfunn&7mo0dd9
+Depiction: https://joker2gun.github.io/depictions/?p=com.pubghacker22.joker
+Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+Name: Pubg Hack v0.14.0
+
+Package: io.joker.sup
+Version: 1.9.9-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/io.joker.sup.deb
+Size: 114760
+MD5sum: 34227834c9a7808d4e2b1b5f7f5ef6dc
+SHA1: ea7772b3fa44ba66439956b010d37074e00492ff
+SHA256: 3b15c0955b7f3bd348e505fe3ea7d39c4c9654268475caacbdc9e7f8c4e15ff7
+Section: Hack
+Description: Sup Hack mod menu made by @kgfunn
+Author: @kgfunn
+Depiction: https://joker2gun.github.io/depictions/?p=io.joker.sup
+Name: SUP Multiplayer Racing hack
+
+Package: joker2gun.github.io.no2theft2
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: @Kgfunn <TheJoker>
+Installed-Size: 3104
+Depends: mobilesubstrate
+Filename: ./debs/joker2gun.github.io.no2Theft2.deb
+Size: 169416
+MD5sum: d655ed08bb653624d21d7ab3a8de3e55
+SHA1: 1663b3a6132f29fc963fbe829ea53c93c8d188cd
+SHA256: 779bd474adf0fc7f973f541c2020aa8cbf334e726039b8945f856f43b00baf74
+Section: Tweak
+Author: @Kgfunn "TheJoker"
+Depiction: https://joker2gun.github.io/depictions/?p=joker2gun.github.io.no2theft2
+Icon: file:///Applications/Cydia.app/Sections/jios12.png
+Name: no2Theft2 Cracked
+
+Package: joker2gun.github.io.pubg
+Version: 10.5~1
+Architecture: iphoneos-arm
+Maintainer: @Kgfunn <TheJoker>
+Installed-Size: 3104
+Depends: mobilesubstrate
+Filename: ./debs/joker2gun.github.io.pubg.deb
+Size: 938346
+MD5sum: d3babfe39a53be580acd209d641fd156
+SHA1: 4ebec06ad55bcf227cf346bdc502053c8ec68f7b
+SHA256: 540c2aa007a04a040768f0e8cd809d8210fabea4bdd7138e0a4b0049565f74bb
+Section: Hacks Game
+Author: @Kgfunn "TheJoker"
+Depiction: https://joker2gun.github.io/depictions/?p=joker2gun.github.io.pubg
+Icon: file:///Applications/Cydia.app/Sections/jokpubg.png
+Name: PUBG Hack Free VIP
+
