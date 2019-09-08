@@ -54,7 +54,7 @@ Architecture: iphoneos-arm
 Maintainer: @kingoffun9
 Installed-Size: 116
 Depends: mobilesubstrate
-Filename: ./debs/AntiBandJoker.deb
+Filename: ./debs/jokeranti.deb
 Size: 30982
 MD5sum: 8c517e9e6cf64dfb593cf4a2d8b95585
 SHA1: 6b4a03e4176819381cb57df4b3623d57f1afd6f3
