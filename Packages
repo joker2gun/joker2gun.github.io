@@ -353,7 +353,7 @@ Architecture: iphoneos-arm
 Maintainer: @kgfunn
 Installed-Size: 1076
 Depends: mobilesubstrate
-Filename: ./debs/com.pukgfunne.com_0.14.5-1+debug_iphoneos-arm.deb
+Filename: ./debs/pubgEnglish146.deb
 Size: 548724
 MD5sum: 228625385c7e9dc10d6449ef3a9ee4db
 SHA1: e4e943d7b33d0dbfafba0994939e7aa28da85e59
