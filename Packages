@@ -72,7 +72,7 @@ Architecture: iphoneos-arm
 Maintainer: @kingoffun9
 Installed-Size: 116
 Depends: mobilesubstrate
-Filename: ./debs/jokerhost2.deb
+Filename: ./debs/jokerhost.deb
 Size: 9892
 MD5sum: ecfb8316ce975cef079ce54dd03fcca7
 SHA1: db6399fe016ff1a965dc2d9d94aa78b2a9988051
