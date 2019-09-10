@@ -66,6 +66,24 @@ Depiction: https://joker2gun.github.io/depictions/?p=com.pukgfunne.com
 Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
 Name: JokerHost
 
+Package: com.joker2.host
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: @kingoffun9
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: ./debs/jokerhost2.deb
+Size: 9892
+MD5sum: ecfb8316ce975cef079ce54dd03fcca7
+SHA1: db6399fe016ff1a965dc2d9d94aa78b2a9988051
+SHA256: 1d2628d230c0ceaff91ea5dc04d7c4de5da42707a6f5229378dd1616290b7d7b
+Section: hack
+Description: Anti-Ban For Joker Pubg Hack
+Author: @kingoffun9
+Depiction: https://joker2gun.github.io/depictions/?p=com.pukgfunne.com
+Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+Name: JokerHost 2
+
 Package: com.joker2gun.icone
 Version: 12.5
 Architecture: iphoneos-arm
