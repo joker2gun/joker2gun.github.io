@@ -419,6 +419,24 @@ Depiction: https://joker2gun.github.io/depictions/?p=com.pukgfunne.com
 Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
 Name: Pubg Hack v0.14.0 English
 
+Package: com.pukgfunne.com
+Version: 0.14.7.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: @kgfunn
+Installed-Size: 1176
+Depends: mobilesubstrate
+Filename: ./debs/pubgEnglish151.deb
+Size: 612440
+MD5sum: 1c1b663ea6c3d34149032f7e831bfd85
+SHA1: 15b727f7dc94ef106163eb597e3a9af4b73b5462
+SHA256: eaa0cac6f3fbf52d4c4a83984ee0e07cc9c49d0214c798055fcc7f6711113b59
+Section: hack
+Description: Pubg Hack v0.14.0 Mod Menu by @kgfunn and @7mo0dd9
+Author: @kgfunn and @7mo0dd9
+Depiction: https://joker2gun.github.io/depictions/?p=com.pukgfunne.com
+Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+Name: Pubg Hack v0.14.0 English
+
 Package: io.joker.sup
 Version: 1.9.9-1+debug
 Architecture: iphoneos-arm
