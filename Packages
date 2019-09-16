@@ -438,16 +438,16 @@ Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
 Name: Pubg Hack v0.14.0 English
 
 Package: com.pukgfunne.com
-Version: 0.14.7.1-1+debug
+Version: 0.14.7.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: @kgfunn
 Installed-Size: 1160
 Depends: mobilesubstrate
 Filename: ./debs/pubgEnglish152.deb
-Size: 612134
-MD5sum: 98b82fe93f192950eb260ae5874e7e58
-SHA1: 09dad0abb45587ae032301153046a5bce8d2b861
-SHA256: 28bc9d823a72f1ab1c2dd0fa277218921d38d8351d5c46b61fc0ca72759de59a
+Size: 612136
+MD5sum: 5d4e737af8a45c3fcf6b11d33ef17186
+SHA1: 3c79c463f98a13452a95c0e9b5495f89cf769fe5
+SHA256: 0bfb6881164c8d9aba629358a701e96743a0b4d323ad5079e2e028ced25b3e80
 Section: hack
 Description: Pubg Hack v0.14.0 Mod Menu by @kgfunn and @7mo0dd9
 Author: @kgfunn and @7mo0dd9
